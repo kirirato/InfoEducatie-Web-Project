@@ -1,0 +1,1 @@
+	In this file we'll keep all the webpages, so it will be easier to make the link between them; I added the bootstrap file here, so it shouldn't be any problem to use it.
