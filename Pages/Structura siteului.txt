@@ -1,0 +1,27 @@
+axa timpului cu evenimente - cand dai hover la un punct de pe axa, poti da click sa te duca la pagina respectiva
+
+
+
+---------------------------------------- Pagini necesare
+
+-home ( ultimele articole scrise )
+-about ( scopul site-ului, alte chestii informationale )
+-axa timplului
+-pagina de stocare a evenimentelor istorice ( contine liste cu linkuri catre evenimentele specifice ) 
+-pagina de stocare a mitologiilor popoarelor (  contine liste cu linkuri catre mitologiile specifice )
+
+--------------------------------------- Base template
+
+-navbar with all the different main webpages ( home, about, etc. )
+-( possible )search bar that searches the articles based on certain words or names
+- 
+
+---------------------------------------- Home
+
+- ordered lists containing top articles ( ex funny, OP gods )
+-
+
+---------------------------------------- About
+
+-
+-
