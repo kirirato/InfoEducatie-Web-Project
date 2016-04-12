@@ -1,0 +1,4 @@
+ Here we'll put ideas for the functions that the website will have
+ 
+ - Make a button that says gallery, and when you click it, on the same webpage will appear the first image in the gallery, and you can change between images from a slidebar with all of the images, below the current image or with arrows left and right of the image.
+ 
