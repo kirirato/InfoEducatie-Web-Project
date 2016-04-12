@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>
+			Educatie
+		</title>
+	</head>
+	
+	<body>
+	  <h1>Educatia</h1>
+		<h2>Definitia educatiei</h2> <!-- just kill me already -->
+    <p>Fenomen social fundamental de transmitere a experienței de viață a generațiilor adulte și a culturii către generațiile de copii și tineri, abilitării pentru integrarea lor în societate.  </p>
+    
+    
+    <h2>Liceul Andrei Saguna</h2>
+    <p>În anul 1850, la inițiativa protopopului Ioan Popazu, și a omului politic și istoricului George Barițiu și a cărturarului Iosif Barac, cât și a locuitorilor români din orașul Brașov, au început cursurile Gimnaziului Mic Român de Religie Ortodoxă Orientală, în Casa Băcanului. Inițiativa a mai fost sprijinită material de către Biserica Sf. Nicolae și Biserica Sf. Adormire din Cetate. 
+    De sărbătoarea Sf. Sofii, la data de 17 septembrie din anul 1851, episcopul Andrei Șaguna a dezvoltat clădirea școlii, împreună cu alte persoane, urmând ca, din anul 1922, gimnaziul să poarte numele ctitorului său.
+    În 1854, gimnaziul era, din punct de vedere cronologic, al treilea din Transilvania, respectiv al șaselea din ținuturile românești. Apoi, în 1996, liceul Andrei Șaguna a devenit Colegiu Național.</p>
+    
+    
+    <h2>Liceul Ioan Mesota</h2>
+    <p>În toamna anului 1869, Eforia Școalelor Centrale Romane Greco-Ortodoxe din Brașov a hotărât deschiderea unei școli reale inferioare și a unei școli comerciale superioare.
+    Ideea mai veche de deschidere a acestei școli i-a aparținut lui George Barițiu, iar în 1854 Ioan Popazu (viitor episcop de Caransebeș) a făcut planul școlii reale.</p>
+    <p>În 1869, doctorul Ioan Meșotă a devenit director la Școalele Centrale Romane și a ocupat acestă funcție până în 1878, când a murit prematur. Lui i se datorează așezarea definitivă a învățămantului românesc brașovean, inclusiv a celui real, pe calea modernității. În 1919, a fost construit un liceul real de stat, care a primit denumirea de Liceul Dr. Ioan Meșotă, în onoarea sa.</p>
+    
+    <h2>Liceul Grigore Moisil</h2>
+    <p>Colegiul Național de Informatică „Grigore Moisil” este un liceu teoretic, cu profil real (matematică-informatică), din Brașov, care poartă numele academicianului Grigore Moisil, "fondatorul" informaticii în România.
+    Acestă instituție de învățământ are o vechime de 71 de ani. </p>
+    
+    <h3>1938-1960</h3>
+    <p>Istoria începe în anul 1938, când s-a ridicat primul corp de clădire, ce a găzduit, pe rand, scolile primare 3 si 11, apoi scolile medii 2, 6 si 4.</p>
+    
+    <h3>1960-1972</h3>
+    <p>In 1960, se construieste al doilea corp de cladire, iar denumirea devine "Liceul de Cultură Generală nr. 4".</p>
+    <h3>1972-2002</h3>
+    <p>In 1972 se introduce un nou profil, de ultimă oră în acea perioadă, iar denumirea să se schimbe în "Liceul pentru Prelucrarea Automată a Datelor". Din 1973, instituția se va numi "Liceul de Informatică". Deși s-a păstrat profilul principal - informatica - și cel de electronică pentru tehnică de calcul, școala își va schimba denumirea, în 1977, în "Liceul de Matematică - Fizică nr. 1". Din 1990 până în 2002, a adoptat și păstrat titulatura "Liceul de Informatică".</p>
+    
+    <h2>Universitatea Transilvania</h2>
+    <p>Universitatea „Transilvania” (UTBv) este o instituție de invățământ superior de stat din Brașov, România, care cuprinde optsprezece facultăți, un număr de 18.528 de studenți și 764 de cadre didactice. Universitatea oferă 100 de domenii de licență la zi, la distanță și fără frecvență, precum și 69 de programe de masterat (aprofundare sau cercetare științifică) în aceleași tipuri de regim. Studiile de doctorat există în prezent în doar 14 din aceste domenii.
+    În anul 1940 se pun bazele învățământului superior în Brașov, în cadrul Academiei de Comerț și Studii Industriale. În 1948 a fost înființat Institutul de Silvicultură, iar în 1949, Institutul de Mecanică. În 1953 Institutul de Silvicultură a devenit Institutul Forestier, iar în urma fuzionării dintre acesta și Institutul de Mecanică, a luat ființă Institutul Politehnic din Brașov. În cadrul acestui institut în anul 1959 ia ființă secția de Industrializare a Lemnului, iar în 1964, secția de Tehnologii de Fabricație. În 1960 se înființează Institutul Pedagogic (Matematică, Fizică - Chimie, Biologie), iar ulterior în anul 1969 Catedra de Muzică.</p>
+	</body>
+</html>
