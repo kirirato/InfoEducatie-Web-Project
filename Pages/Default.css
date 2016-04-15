@@ -9,7 +9,10 @@ body, html{ background-color: #004d4d; }
 	position: absolute;
 	padding: 25px;
 	left: 15%;
+	top: 50px;
 }
+
+#content{ position: relative; top: 25px;}
 
 .fotografie{
 	width: 520px;
