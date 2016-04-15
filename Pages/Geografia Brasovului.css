@@ -1,0 +1,37 @@
+body, html{
+	background-color: #004d4d;
+}
+
+#pozitionare_img{
+	float: right;
+}
+
+#center{
+	width: 1250px;
+	height: 8000px;
+	background-color: lightyellow;
+	position: absolute;
+	padding: 25px;
+	float: center;
+	left: 15%;
+}
+
+.fotografie{
+	width: 520px;
+	height: 325px;
+}
+
+.fotografie img{
+	width: 100%;
+	height: auto;
+}
+
+#munti{ padding: 50px;}
+
+#Mfagaras{ clear: both; float: left; }
+
+#MpiatraCraiului{ clear: both; float: right; }
+
+#Mbucegi{ float: both; float: left; }
+
+#Mleota{ float: both; float: right; }
