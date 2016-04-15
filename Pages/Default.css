@@ -1,0 +1,23 @@
+body, html{ background-color: #004d4d; }
+
+#pozitionare_img{ float: right; }
+
+#center{
+	width: 1250px;
+	height: 100% auto;
+	background-color: lightyellow;
+	position: absolute;
+	padding: 25px;
+	left: 15%;
+}
+
+.fotografie{
+	width: 520px;
+	height: 325px;
+	padding: 25px;
+}
+
+.fotografie img{
+	width: 100%;
+	height: auto;
+}
