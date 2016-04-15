@@ -3,13 +3,13 @@ body, html{ background-color: #004d4d; }
 #pozitionare_img{ float: right; }
 
 #center{
-	width: 1250px;
-	height: 100% auto;
+	height: auto;
 	background-color: lightyellow;
 	position: absolute;
 	padding: 25px;
 	left: 15%;
 	top: 75px;
+	padding-bottom: 75px;
 }
 
 #content{ position: relative; top: 25px;}

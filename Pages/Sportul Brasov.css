@@ -4,4 +4,18 @@
 	padding: 10px;
 }
 
-#sala-sporturilor p{ text-align: center; font-style: bold; }
+#sala-sporturilor h3{ text-align: center; font-weight: bold; }
+
+#sala-sporturilor img:nth-child(2){ position: relative; left:25px;}
+
+#sala-sporturilor img:nth-child(3){ position: relative; left:100px;}
+
+#sala-sporturilor img:nth-child(4){ position: relative; left:325px;}
+
+#img_scris p{ font-weight: bold; text-align: center;}
+
+#clear { clear: both;}
+
+.col-lg-4 p{ position: relative; left: -25px;}
+
+#handball{ float: right; }
