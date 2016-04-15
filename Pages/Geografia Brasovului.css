@@ -1,14 +1,10 @@
-body, html{
-	background-color: #004d4d;
-}
+body, html{ background-color: #004d4d; }
 
-#pozitionare_img{
-	float: right;
-}
+#pozitionare_img{ float: right; }
 
 #center{
 	width: 1250px;
-	height: 8000px;
+	height: 100% auto;
 	background-color: lightyellow;
 	position: absolute;
 	padding: 25px;
@@ -19,6 +15,7 @@ body, html{
 .fotografie{
 	width: 520px;
 	height: 325px;
+	padding: 25px;
 }
 
 .fotografie img{
@@ -26,12 +23,55 @@ body, html{
 	height: auto;
 }
 
-#munti{ padding: 50px;}
 
-#Mfagaras{ clear: both; float: left; }
+#munti_list{ float: left; }
 
-#MpiatraCraiului{ clear: both; float: right; }
+#munti p{ text-align: center; font-weight: bold; }
 
-#Mbucegi{ float: both; float: left; }
+#Mfagaras{ float: right; }
 
-#Mleota{ float: both; float: right; }
+#MpiatraCraiului{ float: right; clear: both; }
+
+#Mbucegi{ clear: left; }
+
+#Mbucegi p{ position: relative; left: -75px;}
+
+#Mbarsei p{ position: relative; left: -75px;}
+
+#Mleota{ float: right; clear: right; }
+
+#Mcodlei{ float: left; clear: left; }
+
+#Mpersani{ float: right; clear: right; }
+
+
+#rezervatii_art{ float:left; }
+
+#rezervatii p{ font-weight: bold; text-align: center;}
+
+#bucsoiul{ float: right;}
+
+#gaura{ float: left; clear: left; }
+
+#babele{ float: right; clear: right; }
+
+#sfinx{ float: left; clear: left; }
+
+#tampa{ float: left; clear: left; position: relative; left: 350px; }
+
+
+#clima_art{ float: left; clear: both;}
+
+#brasov_iarna_img{ position: relative; left: 50px; }
+
+#brasov_vara_img{ position: relative; left: 50px; }
+
+
+#hidrografie_art{ float: left; clear: left;}
+
+#hidrografie_img{ 
+	width: 1000px;
+	height: 700px;
+	position: relative;
+	left: 75px;
+}
