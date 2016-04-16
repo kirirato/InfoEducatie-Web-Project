@@ -1,0 +1,15 @@
+.sub-title{
+	font-weight: bold;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+#junii_img{ float:right; clear: right; }
+
+#mestecenii_img{ float:right; clear: right; position: relative; bottom:25px;  }
+
+#zoritorilor_img{ float:right; clear: right; }
+
+#capra_img{ float:right; clear: right; position: relative; bottom:25px; }
+
+.new_paragraph{ clear: both; padding: 10px; }
