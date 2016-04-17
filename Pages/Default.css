@@ -4,18 +4,18 @@ body, html{ background-color: #004d4d; }
 	height: auto;
 	background-color: lightyellow;
 	position: absolute;
-	padding: 25px;
+	padding: 2em;
 	left: 15%;
-	top: 75px;
-	padding-bottom: 75px;
+	top: 6em;
+	padding-bottom: 6em;
 }
 
-#content{ position: relative; top: 25px;}
+#content{ position: relative; top: 2em;}
 
 .fotografie{
-	width: 520px;
-	height: 325px;
-	padding: 25px;
+	width: 41.6em;
+	height: 26em;
+	padding: 2em;
 }
 
 .fotografie img{

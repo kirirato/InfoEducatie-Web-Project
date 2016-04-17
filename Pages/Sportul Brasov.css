@@ -1,21 +1,21 @@
 .stema{
-	width: 150px;
-	height: 150px;
-	padding: 10px;
+	width: 12em;
+	height: 12em;
+	padding: 0.8em;
 }
 
 #sala-sporturilor h3{ text-align: center; font-weight: bold; }
 
-#sala-sporturilor img:nth-child(2){ position: relative; left:25px;}
+#sala-sporturilor img:nth-child(2){ position: relative; left:2em;}
 
-#sala-sporturilor img:nth-child(3){ position: relative; left:100px;}
+#sala-sporturilor img:nth-child(3){ position: relative; left:4em;}
 
-#sala-sporturilor img:nth-child(4){ position: relative; left:325px;}
+#sala-sporturilor img:nth-child(4){ position: relative; left:26em;}
 
 #img_scris p{ font-weight: bold; text-align: center;}
 
 #clear { clear: both;}
 
-.col-lg-4 p{ position: relative; left: -25px;}
+.col-lg-4 p{ position: relative; left: -2em;}
 
 #handball{ float: right; }

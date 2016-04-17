@@ -1,27 +1,27 @@
-#piata_sfatului_img{ position: relative; bottom: 25px;}
+#piata_sfatului_img{ position: relative; bottom: 2em;}
 
-#piata_sfatului_txt{ position: relative; top: 100px;}
-
-
-#biserica_neagra_txt{ position: relative; top: 100px;}
-
-#biserica_neagra_img{ position: relative; bottom: 25px;}
+#piata_sfatului_txt{ position: relative; top: 8em;}
 
 
-#strada_sforii_txt{ position: relative; top: 100px;}
+#biserica_neagra_txt{ position: relative; top: 8em;}
 
-#strada_sforii_img{ position: relative; bottom: 25px;}
-
-
-#tatarilor_txt{ position: relative; top: 150px;}
-
-#tatarilor_img{ position: relative; bottom: 25px;}
+#biserica_neagra_img{ position: relative; bottom: 2em;}
 
 
-#schei_txt{ position: relative; top: 150px;}
+#strada_sforii_txt{ position: relative; top: 8em;}
+
+#strada_sforii_img{ position: relative; bottom: 2em;}
 
 
-#ecaterinei_txt{ position: relative; top: 100px;}
+#tatarilor_txt{ position: relative; top: 12em;}
+
+#tatarilor_img{ position: relative; bottom: 2em;}
 
 
-#dupa_ziduri_txt{ position: relative; top: 150px;}
+#schei_txt{ position: relative; top: 12em;}
+
+
+#ecaterinei_txt{ position: relative; top: 8em;}
+
+
+#dupa_ziduri_txt{ position: relative; top: 12em;}

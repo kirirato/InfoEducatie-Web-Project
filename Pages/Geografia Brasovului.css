@@ -1,7 +1,6 @@
 #pozitionare_img{ float: right; }
 
 
-
 #munti_list{ float: left; }
 
 #munti p{ text-align: center; font-weight: bold; }
@@ -12,9 +11,9 @@
 
 #Mbucegi{ clear: left; }
 
-#Mbucegi p{ position: relative; left: -75px;}
+#Mbucegi p{ position: relative; left: -6em;}
 
-#Mbarsei p{ position: relative; left: -75px;}
+#Mbarsei p{ position: relative; left: -6em;}
 
 #Mleota{ float: right; clear: right; }
 
@@ -40,16 +39,16 @@
 
 #clima_art{ float: left; clear: both;}
 
-#brasov_iarna_img{ position: relative; left: 50px; }
+#brasov_iarna_img{ position: relative; left: 4em; }
 
-#brasov_vara_img{ position: relative; left: 50px; }
+#brasov_vara_img{ position: relative; left: 4em; }
 
 
 #hidrografie_art{ float: left; clear: left;}
 
 #hidrografie_img{ 
-	width: 1000px;
-	height: 700px;
+	width: 80em;
+	height: 50em;
 	position: relative;
-	left: 75px;
+	left: 6em;
 }
