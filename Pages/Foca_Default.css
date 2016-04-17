@@ -1,0 +1,44 @@
+body, html{ background-color: #004d4d; }
+
+.small_picture {
+	height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+	padding: 25px;
+ }
+.medium_picture {
+	height: auto; 
+    width: auto; 
+    max-width: 350px; 
+    max-height: 300px;
+	padding: 25px;
+}
+
+.big_picture {
+	height: auto; 
+    width: auto; 
+    max-width: 400px; 
+    max-height: 450px;
+	padding: 25px;
+}
+
+.bigger_picture{
+	height: auto; 
+    width: auto; 
+    max-width: 850px; 
+    max-height: 750px;
+	padding: 25px;
+}
+#center{
+	height: auto;
+	background-color: lightyellow;
+	position: absolute;
+	padding: 25px;
+	left: 15%;
+	top: 75px;
+	padding-bottom: 75px;
+}
+
+#content{ position: relative; top: 25px;}
+
