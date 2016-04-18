@@ -1,34 +1,7 @@
 body, html{ background-color: #004d4d; }
 
-.small_picture {
-	height: auto; 
-    width: auto; 
-    max-width: 14em; 
-    max-height: 14em;
-	padding: 2em;
- }
-.medium_picture {
-	height: auto; 
-    width: auto; 
-    max-width: 25em; 
-    max-height: 21em;
-	padding: 2em;
-}
-
-.big_picture {
-	height: auto; 
-    width: auto; 
-    max-width: 28em; 
-    max-height: 32em;
-	padding: 2em;
-}
-
-.bigger_picture{
-	height: auto; 
-    width: auto; 
-    max-width: 60em; 
-    max-height: 53em;
-	padding: 2em;
+.gap-right {
+	margin-right: 2em;
 }
 #center{
 	height: auto;
