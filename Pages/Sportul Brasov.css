@@ -1,16 +1,11 @@
 .stema{
-	width: 12em;
-	height: 12em;
-	padding: 0.8em;
+	width: 10em;
+	height: 10em;
+	padding: 1em;
 }
 
-#sala-sporturilor h3{ text-align: center; font-weight: bold; }
+#sala-sporturilor{ text-align: center; font-weight: bold; }
 
-#sala-sporturilor img:nth-child(2){ position: relative; left:2em;}
-
-#sala-sporturilor img:nth-child(3){ position: relative; left:4em;}
-
-#sala-sporturilor img:nth-child(4){ position: relative; left:26em;}
 
 #img_scris p{ font-weight: bold; text-align: center;}
 

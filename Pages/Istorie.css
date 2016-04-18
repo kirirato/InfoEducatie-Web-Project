@@ -1,5 +1,22 @@
 .image{ text-align: center; font-weight: bold; }
 
+.image p{ padding-right: 10em;}
+
 #teatru_dramatic{ text-align: center; font-weight: bold; }
 
-#uzina{ text-align: center; font-weight: bold;  position: relative; bottom: 4em;}
+#uzina{ text-align: center; font-weight: bold;  position: relative;}
+
+.txt{ float: left; clear: left; }
+
+#gazeta{ float: left; }
+
+.photo{
+	width: 30em;
+	height: 20em;
+	padding: 3em;
+	 max-height: 30em;
+}
+
+.col-lg-5{
+	text-align: center;
+}

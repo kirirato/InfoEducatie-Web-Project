@@ -13,12 +13,12 @@ body, html{ background-color: #004d4d; }
 #content{ position: relative; top: 2em;}
 
 .fotografie{
-	width: 41.6em;
-	height: 26em;
-	padding: 2em;
+	width: 35em;
+	height: 25em;
+	padding: 3em;
 }
 
-.fotografie img{
+/*.fotografie img{
 	width: 100%;
 	height: auto;
-}
+}*/

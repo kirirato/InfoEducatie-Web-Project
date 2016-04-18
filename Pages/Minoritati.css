@@ -1,6 +1,6 @@
 #maghiari_txt{ font-weight: bold; }
 
-#maghiari_2011_img{ height: 56em; width: 86em;}
+#maghiari_2011_img{ width: 100%; height: 50%;}
 
 #aprily_txt{ font-weight: bold; }
 
@@ -11,3 +11,5 @@
 #center_txt{ text-align: center; padding-top: 2em;}
 
 #sinagoga_img{ padding-top:4em; text-align: center;}
+
+.txt{ float:left; clear: left;}
