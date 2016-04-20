@@ -9,8 +9,8 @@ body, html{ background-color: #004d4d; }
 	position: absolute;
 	padding: 2em;
 	left: 15%;
-	top: 5em;
-	padding-bottom: 5em;
+	top: 6em;
+	padding-bottom: 6em;
 }
 
 #content{ position: relative; top: 2em;}
