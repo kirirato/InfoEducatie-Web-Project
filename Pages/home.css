@@ -1,0 +1,19 @@
+body, html{ background-color: #004d4d; }
+
+.jumbotron{ padding:0em; width:100%}
+
+div{ text-align: center; font-weight: none; padding: 3em;}
+
+#descriere{ text-align: center; padding: 10em; padding-bottom: 50em; padding-top: 50em; font-weight: bold; color: #d9d9d9; background-color: #004d4d; position: relative; top: -3em;}
+
+a{ color: black; font-weight: none;}
+
+#important{ text-align: center; color: #d9d9d9; font-weight: bold; padding-bottom: 5em;}
+
+h2{ padding-left: 5em; padding-right: 5em; color: #d9d9d9; }
+
+.left{ text-align:right;}
+.right{ text-align:left;}
+
+a:hover{ color: #d9d9d9; text-decoration: none}
+h2:hover{ font-weight: bold;}
