@@ -1,5 +1,5 @@
 var imageCount = 1;
-var total = 3;
+var total = 9;
 
 function photo(x) {
 	var image = document.getElementById('image');
