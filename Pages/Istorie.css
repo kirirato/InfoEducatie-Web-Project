@@ -14,7 +14,8 @@
 	width: 30em;
 	height: 20em;
 	padding: 3em;
-	 max-height: 30em;
+	max-height: 30em;
+	border-radius: 20%;
 }
 
 .col-lg-5{
