@@ -16,9 +16,5 @@ body, html{ background-color: #004d4d; }
 	width: 35em;
 	height: 25em;
 	padding: 3em;
+	border-radius: 20%;
 }
-
-/*.fotografie img{
-	width: 100%;
-	height: auto;
-}*/
