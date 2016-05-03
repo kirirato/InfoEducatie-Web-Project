@@ -14,7 +14,7 @@ function photo(x) {
 		if(imageCount > total){imageCount = 1;}
 		if(imageCount < 1){imageCount = total;}	
 		image.src = "Images/img"+ imageCount +".jpg";
-	},5000);
+	},10000);
 }
  
 var time = window.setInterval(function photoA() {    // just addign the sunction to the variable so you can target it.
