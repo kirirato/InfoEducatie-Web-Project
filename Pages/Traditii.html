@@ -6,6 +6,8 @@
 		<link type="text/css" rel="stylesheet" href="Default.css"/>
 		<link rel="stylesheet" href= "bootstrap.min.css"/>
 		<link type="text/css" rel="stylesheet" href="navbar.css"/>
+		<link type="text/css" rel="stylesheet" href="comment.css"/>
+		<script type="text/javascript" rel="Comentarii.js"></script>
 	</head>
 	<body>
 	<!-- Navbar-san -->
@@ -44,6 +46,19 @@
 				</div>
 			</div>
 		</div>
+		
+		<!-- Comment System -->
+			<!-- Butonul care trebuie apasat sa apara pagina de comentarii -->
+			<button onclick="Show()" id="comment_button" type="button">
+				<div id = "arrows"> << </div>
+				<div id = "button_text"> C o m e n t a r i i ! </div>
+			</button>
+			<!-- Efectul de intuneric de pe background cand este activa pagina de comentarii, deocamdata are diplay: none -->
+			<div onclick="Hide()" id = "background_comment_page"> </div>
+			<!-- Pagina unde o sa se afle comentariil, deocamdata are display: none -->
+			<div id = "comment_page">
+				<div> Text </div>
+			</div>
 	
 		<div id="center" class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
 			<h1 align="center"> TRADI&#354;II CULTURALE </h1>
