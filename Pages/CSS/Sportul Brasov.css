@@ -1,0 +1,16 @@
+.stema{
+	width: 10em;
+	height: 10em;
+	padding: 1em;
+}
+
+#sala-sporturilor{ text-align: center; font-weight: bold; }
+
+
+#img_scris p{ font-weight: bold; text-align: center;}
+
+#clear { clear: both;}
+
+.col-lg-4 p{ position: relative; left: -2em;}
+
+#handball{ float: right; }

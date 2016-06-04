@@ -1,0 +1,17 @@
+body, html{ background-color: #004d4d; }
+
+.gap-right {
+	margin-right: 2em;
+}
+#center{
+	height: auto;
+	background-color: lightyellow;
+	position: absolute;
+	padding: 2em;
+	left: 15%;
+	top: 6em;
+	padding-bottom: 6em;
+}
+
+#content{ position: relative; top: 2em;}
+

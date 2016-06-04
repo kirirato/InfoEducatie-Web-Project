@@ -1,0 +1,80 @@
+body, html{ background-color: #004d4d; }
+
+.jumbotron{ padding:0em; width:100%}
+
+div{ text-align: center; font-weight: none; padding: 3em;}
+
+#descriere{ text-align: center; padding: 10em; padding-bottom: 50em; padding-top: 50em; font-weight: bold; color: #d9d9d9; background-color: #004d4d; position: relative; top: -5em;}
+
+a{ color: black; font-weight: none;}
+
+#important{ text-align: center; color: #d9d9d9; font-weight: bold; padding-bottom: 5em;}
+
+h2{ padding-left: 5em; padding-right: 5em; color: #d9d9d9; }
+
+.left_art{ text-align:right;}
+.right_art{ text-align:left;}
+
+a:hover{ color: #d9d9d9; text-decoration: none}
+h2:hover{ font-weight: bold;}
+
+#navbar{ height: 5em;}
+
+.container{ position:relative; top: -8em;}
+
+
+
+
+#slider {
+	width:100%;
+	height:800px;
+	margin: 50px auto;
+	position:relative;
+	border-radius:4px;
+	overflow:hidden;
+	bottom: 5em; 
+	}
+#image {
+	height:100%;
+	width:100%;
+	position:absolute;
+	}
+.left_hold {
+	height: 100%;
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.right_hold {
+	height: 100%;
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.left {
+	height:50px;
+	width:50px;
+	position:absolute;
+	top:40%;
+	left:20px;
+	opacity:0;
+	transition: all .2s ease-in-out 0s;
+	}
+.right {
+	height:50px;
+	width:50px;
+	position:absolute;
+	top:40%;
+	right:20px;
+	opacity:0;
+	transition: all .5s ease-in-out 0s;
+}
+.left_hold:hover .left {
+	opacity:0.8;
+	}
+.right_hold:hover .right {
+	opacity:0.8;
+}
+.left:hover .left1
