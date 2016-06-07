@@ -1,0 +1,23 @@
+body, html{ background-color: #004d4d; }
+
+.form {
+	padding: 50px 25px 50px 100px;
+	margin: auto;
+    width: 50%;
+	position: relative;
+	top: 150px;
+	background-color: lightyellow;
+	border: 3px solid #72ac20;
+}
+
+div, td{ font-size: 20px; }
+
+.message{
+	margin: auto;
+	position: relative;
+	top: 250px;
+	width: 30%;
+	background-color: lightyellow;
+	padding: 10px;
+	border: 3px solid #72ac20;
+}
